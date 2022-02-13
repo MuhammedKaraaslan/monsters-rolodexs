@@ -1,2 +1,2 @@
 
-try it on https://muhammedkaraaslan.github.io/monsters-rolodexs/
+Try it: https://muhammedkaraaslan.github.io/monsters-rolodexs/
